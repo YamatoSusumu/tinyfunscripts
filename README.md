@@ -10,3 +10,5 @@ a collection of tiny fun python scripts
 ---
 - nply.py  | *cli audio player*
   <img width="1004" alt="Screenshot 2023-08-08 at 4 42 44 PM" src="https://github.com/YamatoSusumu/tinyfunscripts/assets/140510316/85d813d4-52a4-43f7-a58c-d68ed402870d">
+---
+- downloader.py | *use requests lib to download stuff*
